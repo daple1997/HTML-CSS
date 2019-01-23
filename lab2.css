@@ -1,0 +1,88 @@
+/*lab1.css - stylesheet examples*/
+
+body
+{
+	font-family: verdana;
+	text-align: center;
+	background-color: rgba(196, 190, 190, 0.911);
+	padding: 20px 20px 20px 20px;
+}
+
+header
+{
+	padding: 20px 20px 20px 20px;
+
+}
+h1
+{
+	font-family: verdana;
+	text-align: center;
+	font-family: Arial, Helvetica;
+	
+	color: rgb(14, 156, 14);
+
+}
+
+h2
+{
+	font-family: verdana;
+	text-align: center;
+	font-family: Arial, Helvetica;
+	
+	font-style: italic;
+	color: rgb(14, 156, 14);
+
+}
+
+p
+{
+	font-family: verdana;
+ 	font-family: Arial, Helvetica;
+ 	text-align: center;
+	font-style: italic;
+	color:solid black;
+
+}
+footer
+{
+	padding: 20px 20px 20px 20px;
+
+}
+div
+{
+	padding: 10px 20px 10px 20px;
+	text-align: center
+}
+
+a:hover
+{
+	color: red;
+}
+#me
+{
+	border-collapse: collapse;
+	border: 5px solid black;
+	align-items: center;
+
+
+}
+#courses
+{
+	border-collapse: collapse;
+	border: 1px solid black;
+
+	
+}
+.headings
+{
+	font-weight: bold;
+}
+.code 
+{
+	text-align: left;
+}
+.name
+{
+
+	text-align: left;
+}
